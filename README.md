@@ -1,48 +1,62 @@
-# 👋 Hello, I'm JAIME GARCIA ARROJO!
+# Hey, I'm Jaime 👋
 
-🎓 **Electronics Engineer Student** | 🌍 Based in Spain | 🚀 Passionate about technology and innovation
+**Electronics Engineer & Startup Founder**
 
----
+I started very young getting obsessed with tech, it seemed to be some kind of magic. From mechanics to programming, I've always been a geek about it and how to apply it to solve real-world problems.
 
-## About Me
+## My Journey
 
-Hi! I'm an electronics engineer with a deep love for creating, designing, and optimizing electronic systems. My journey has been all about bringing hardware and software together, whether it's prototyping circuits, programming microcontrollers, or exploring the latest in IoT and embedded systems, I'm always excited to learn, build and share.
+Studied Industrial Electronics and Automation Engineering at Universidad Carlos III de Madrid. Spent 3 years at **MAD Formula Team** designing electronics for autonomous racing cars and competing all across Europe. My thesis focused on autonomous vehicle control systems, and we even competed internationally.
 
----
+While finishing my degree, I started learning about auditing work and doing small automations. That's when I realized all the knowledge I had acquired could be applied to help auditors deal with compliance and validations.
 
-## My Work
+So in November 2025, I co-founded **G2F**.
 
-- **Specializations**: Circuit design, PCB layout, embedded systems programming.
-- **Software Skills**: Altium Designer, MATLAB, Arduino IDE, VS Code.
-- **Programming Skills**: C, C++, Python, VHDL.
-- **Current Interests**: Robotics and AI.
+## What I'm Building Now
 
----
+At **[G2F](https://g2f.io)**, we're building the AI-powered workflow automation platform I wish had existed when I was doing those small automations. An ecosystem tailored to auditors and compliance professionals to power automations and keep up with the era.
 
-## 🌐 Connect With Me
+I'm still hands-on with everything:
 
-- 📧 Email: jaimegarciaarrojo@gmail.com  
-- 💻 [GitHub](https://github.com/JaimeG-ELC)  
+**AI & Backend**
 
----
+- LLM & ML integration for document processing, validation and classification
+- RAG systems with pgvector for intelligent retrieval
+- Agentic workflows with autonomous task execution
+- Go services + Python workers
+- Temporal for distributed workflow orchestration (handling 500+ concurrent workflows)
 
-## 🔭 What I'm Working On
+**Frontend & Infrastructure**
 
-- F1 Tenth autonomous vehicule.
+- Next.js, React, TypeScript
+- AWS EKS, Kubernetes, Helm
+- Pulumi (Infrastructure as Code)
+- ArgoCD (GitOps)
+- OAuth integrations with 13+ platforms
 
+**From My Racing Days**
 
+- Embedded systems (C/C++, STM32)
+- PCB design (Altium Designer)
+- CANbus, sensor integration
+- Control systems and state estimation
+- Real-time autonomous driving systems
 
-<!--
-**JaimeG-ELC/JaimeG-ELC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+```
+Languages:     TypeScript, Go, Python, C, C++
+Frontend:      Next.js, React
+Backend:       Go, Python, Node.js
+AI/ML:         Claude API, OpenAI API,  RAG, pgvector
+Databases:     PostgreSQL (Drizzle ORM, SQLC), Redis
+Infrastructure: AWS EKS, Kubernetes, Pulumi, ArgoCD, Docker
+Observability: Prometheus, Grafana
+Embedded:      STM32, Altium Designer, CANbus
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+
+- **Email**: jaimegarciaarrojo@gmail.com
+- **LinkedIn**: [linkedin.com/in/jaimegarciarrojo](https://linkedin.com/in/jaimegarciarrojo)
+- **Location**: Madrid, Spain
