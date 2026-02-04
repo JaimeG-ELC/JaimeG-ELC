@@ -16,45 +16,6 @@ So in November 2025, I co-founded **G2F**.
 
 At **[G2F](https://g2f.io)**, we're building the AI-powered workflow automation platform I wish had existed when I was doing those small automations. An ecosystem tailored to auditors and compliance professionals to power automations and keep up with the era.
 
-I'm still hands-on with everything:
-
-**AI & Backend**
-
-- LLM & ML integration for document processing, validation and classification
-- RAG systems with pgvector for intelligent retrieval
-- Agentic workflows with autonomous task execution
-- Go services + Python workers
-- Temporal for distributed workflow orchestration (handling 500+ concurrent workflows)
-
-**Frontend & Infrastructure**
-
-- Next.js, React, TypeScript
-- AWS EKS, Kubernetes, Helm
-- Pulumi (Infrastructure as Code)
-- ArgoCD (GitOps)
-- OAuth integrations with 13+ platforms
-
-**From My Racing Days**
-
-- Embedded systems (C/C++, STM32)
-- PCB design (Altium Designer)
-- CANbus, sensor integration
-- Control systems and state estimation
-- Real-time autonomous driving systems
-
-## Tech Stack
-
-```
-Languages:     TypeScript, Go, Python, C, C++
-Frontend:      Next.js, React
-Backend:       Go, Python, Node.js
-AI/ML:         Claude API, OpenAI API,  RAG, pgvector
-Databases:     PostgreSQL (Drizzle ORM, SQLC), Redis
-Infrastructure: AWS EKS, Kubernetes, Pulumi, ArgoCD, Docker
-Observability: Prometheus, Grafana
-Embedded:      STM32, Altium Designer, CANbus
-```
-
 ## Get in Touch
 
 - **Email**: jaimegarciaarrojo@gmail.com
